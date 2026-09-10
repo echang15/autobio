@@ -10,9 +10,9 @@ when ready.
 
 ## Work / career
 - Top Line Express — first job, 2004–2006.
-- "A big bank" — 2006–2022. (Likely JPMorgan Chase, per the timeline in the 9/11 chapter —
-  confirm before writing.)
-- Another bank — 2023–present. (Name TBD.)
+- "A big bank" — 2006–2022. Decision: keep employer names generic across the whole site
+  (confirmed — don't name specific banks, even though the employer is known).
+- "Another bank" — 2023–present. Same rule: keep generic.
 
 ## Lessons learned in life
 - Can't be friends with everyone.
@@ -40,7 +40,7 @@ when ready.
 ## Music
 - Trumpet.
 - Guitar (ties into the dorm-room detail in the 9/11 chapter — Fender Deluxe 112 Plus
-  amp, Jackson DX7G, Jackson Kelly).
+  amp, Yamaha Pacifica 112M, Jackson Kelly).
 - A lifetime of just listening to music.
 
 ## Ice hockey
