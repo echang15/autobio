@@ -35,7 +35,11 @@ when ready.
 - (nothing yet)
 
 ## Imposter syndrome & reluctant leadership
-- (nothing yet)
+- 20+ patent filings, 11 granted.
+- Went from the quiet kid who never spoke up in class to a senior engineer leading labs
+  for hundreds of technologists — introvert to extrovert, not entirely on purpose. This
+  arc is teased in the homepage bio; the real chapter should dig into how that
+  transformation actually happened.
 
 ## Music
 - Trumpet.
