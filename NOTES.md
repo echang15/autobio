@@ -30,3 +30,26 @@ when ready.
   stereotyping/backlash fears — this was originally (mis)placed in the 9/11 chapter, but
   it actually happened years later, around a Korean attacker (Virginia Tech, 2007? —
   confirm). Belongs in its own chapter or wherever that event gets covered.
+
+## Having children
+- (nothing yet)
+
+## Imposter syndrome & reluctant leadership
+- (nothing yet)
+
+## Music
+- Trumpet.
+- Guitar (ties into the dorm-room detail in the 9/11 chapter — Fender Deluxe 112 Plus
+  amp, Jackson DX7G, Jackson Kelly).
+- A lifetime of just listening to music.
+
+## Ice hockey
+- Ties into the 9/11 chapter (Freeport rink, midnight league, the Blues) — may be worth
+  cross-linking once this chapter exists.
+
+## Video games
+- Ties into the 9/11 chapter dorm-room detail (Starsiege: Tribes, Counter-Strike,
+  overclocked gaming PC).
+
+## Cooking
+- (nothing yet)
