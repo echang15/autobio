@@ -171,6 +171,19 @@ figcaption {
   flex-shrink: 0;
 }
 
+.upcoming-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-family: var(--sans);
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.upcoming-list li {
+  padding: 0.4rem 0;
+}
+
 .section-heading {
   font-family: var(--sans);
   text-transform: uppercase;
