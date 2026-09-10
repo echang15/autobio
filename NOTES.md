@@ -24,3 +24,9 @@ when ready.
 - Perpetually single for a long time.
 - Stumbled into meeting my wife many years later.
 - Missing clues (signals I didn't pick up on at the time).
+
+## Identity / race (not 9/11 — a later incident)
+- A phone call with dad, hoping an attacker wouldn't turn out to be Asian, tied to racial
+  stereotyping/backlash fears — this was originally (mis)placed in the 9/11 chapter, but
+  it actually happened years later, around a Korean attacker (Virginia Tech, 2007? —
+  confirm). Belongs in its own chapter or wherever that event gets covered.
