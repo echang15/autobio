@@ -108,6 +108,12 @@ h1.page-title {
   margin-bottom: 2rem;
 }
 
+.lede {
+  font-size: 1.3rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
 .chapter-meta {
   font-family: var(--sans);
   color: var(--text-muted);
